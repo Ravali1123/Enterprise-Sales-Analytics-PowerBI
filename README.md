@@ -1,5 +1,6 @@
 # Enterprise Sales & Marketing Analytics Dashboard
-
+## 📥 Download Dashboard
+[Download PBIX File](./Enterprise_Sales_Analytics.pbix)
 
 ## 📋 Project Overview
 
